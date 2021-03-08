@@ -29,6 +29,8 @@ public class MediaDuasNotas {
                 }
                 else{
                     System.out.println("Reprovado");
+
+                    
                 }     
     }
   }   
